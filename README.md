@@ -67,6 +67,9 @@ python3 manage.py runserver
 
 El backend estará disponible en `http://127.0.0.1:8000/`.
 
+### ERD
+<img width="531" height="606" alt="erd" src="https://github.com/user-attachments/assets/139d6e04-e76a-4a78-83be-2f1f672edee7" />
+
 ### 2. Configuración del Frontend
 
 Estos pasos asumen una estructura estándar para un proyecto de frontend (ej. React, Vue, Angular).
